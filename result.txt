@@ -1,0 +1,11 @@
+>> y=factorial(4)
+
+y =
+
+    24
+
+>> y=factorial(10)
+
+y =
+
+     3628800
